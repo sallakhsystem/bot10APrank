@@ -54,8 +54,8 @@ ki10.loginResult()
 print "login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
-helpMessage="""(╣••℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́❍̰̰̈́т̰̰̈́ѕ̰̰̈́••╣)
-╔═B༘̈́̈́L༘̈́̈́Ä༘́̈́C༘̈́̈́K༘̈́̈́   ̈́Ö༘́̈́F༘̈́̈́ ̈́  G༘̈́̈́Ä༘́̈́M༘̈́̈́Ë༘́̈́R༘̈́̈́═╗
+helpMessage="""(╣••̰@Sallakh в̰̰̈́❍̰̰̈́т̰̰̈́ѕ̰̰̈́••╣)
+╔═@Sallakh Bot Protect 💪
 ║1║ ✰ Me
 ║2║ ✰ Add
 ║3║ ✰ Gift
@@ -130,8 +130,8 @@ helpMessage="""(╣••℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́�
 ║🔛║ ✰ {Setauto}
 ╚══╩════════╝
   """
-helpMedia="""(╣••℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́❍̰̰̈́т̰̰̈́ѕ̰̰̈́••╣)
-╔═B༘̈́̈́L༘̈́̈́Ä༘́̈́C༘̈́̈́K༘̈́̈́   ̈́Ö༘́̈́F༘̈́̈́ ̈́  G༘̈́̈́Ä༘́̈́M༘̈́̈́Ë༘́̈́R༘̈́̈́═╗
+helpMedia="""(╣••@ ̰Sallakh в̰̰̈́❍̰̰̈́т̰̰̈́ѕ̰̰̈́••╣)
+╔═••@Sallakh Bot Pro 💪
 ║╦═══MEDIA═══
 ║1║ ✰ Youtube *text*
 ║2║ ✰ Youtubesearch *user*
@@ -208,8 +208,8 @@ helpMedia="""(╣••℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́❍
 ║🔛║ ✰ {Setauto}
 ╚══╩══════╝
 """
-helpFun = """(╣℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́❍̰̰̈́т̰̰̈́ѕ̰̰̈́╣)
-╔═B༘̈́̈́L༘̈́̈́Ä༘́̈́C༘̈́̈́K༘̈́̈́   ̈́Ö༘́̈́F༘̈́̈́ ̈́  G༘̈́̈́Ä༘́̈́M༘̈́̈́Ë༘́̈́R༘̈́̈́═╗
+helpFun = """(╣@ ̰Sallakh в̰̰̈́❍̰̰̈́т̰̰̈́ѕ̰̰̈́╣)
+╔═@_S-K ™
 ║╦═══MEDIA═══
 ║1║ ✰ sider:*txt*
 ║2║ ✰ tagme:*txt
@@ -256,10 +256,10 @@ helpself="""
 ║23║ ✰ Allbio "status"
 ║24║ ✰ Sendcontact "text"
 ║25║ ✰ Botbyeall  
-║••℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́❍̰̰̈́т̰̰̈́ѕ̰̰̈́••
+║••@ ̰Sallakh в̰̰̈́❍̰̰̈́т̰̰̈́ѕ̰̰̈́••
 ╚═══════════╝
   """
-helpset="""╔(╣ S༘̏̏Ȅ༘̏T༘̏̏T༘̏̏Ȉ༘̏N༘̏̏G༘̏̏ ̏B༘̏̏Ȍ༘̏T༘̏̏S༘̏̏.╣)╗
+helpset="""╔(╣••@S-K Fuckerbot.╣)╗
 ║ ✰ Ban:on/Unbl:on
 ║ ✰ Contact:on/off
 ║ ✰ Add:on/off
@@ -295,12 +295,12 @@ helpset="""╔(╣ S༘̏̏Ȅ༘̏T༘̏̏T༘̏̏Ȉ༘̏N༘̏̏G༘̏̏ ̏B
 ║🔧║ ✰ {Settings}
 ║🔛║ ✰ {Setauto}
 ╚══╩══════╝
-║ ╦═B༘̈́̈́L༘̈́̈́Ä༘́̈́C༘̈́̈́K༘̈́̈́   ̈́Ö༘́̈́F༘̈́̈́ ̈́  G༘̈́̈́Ä༘́̈́M༘̈́̈́Ë༘́̈́R༘̈́̈́═╦
-╚═•℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́❍̰̰̈́т̰̰̈́ѕ̰̰̈́•╝
+║ ╦═@Sallakh Bots
+╚═•@$-K ̰в̰̰̈́❍̰̰̈́т̰̰̈́ѕ̰̰̈́•╝
 """
 translateMessage ="""
 ╔══════════
-║(╣℘̰̰̈́ґ̰̰̈́∂̰̰̈́η̰̰̈́к̰̰̈́ ̰в̰̰̈́❍̰̰̈́т̰̰̈́ѕ̰̰̈́╣)
+║(╣@SﾑℓℓﾑKԋ в̰̰̈́❍̰̰̈́т̰̰̈́ѕ̰̰̈́╣)
 ║╔═════════
 ║══════════
 ║✰║ Afrika/
