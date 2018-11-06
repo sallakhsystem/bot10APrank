@@ -1,30 +1,33 @@
-# DONE UPDATE 14-MART_2018
+# DONE UPDATE 14-OCT_2018
 
 # 1 selfbot 10 asist
 V2.1 editor_::
 Prankbots
 # PRANKBOTS
-![Prankbots](prankbots.png)
-V2.1 last update::
-05/0/2018
+![SALLAKHBOT](Sallakh-bots.png)
+V8.1.1 last update::
+10/10/2018
 # CONTACT OFFICIAL
 
-<a href="https://line.me/R/ti/p/%40gnh2780p"><img height="36" border="0" alt="Add Friend" src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png"></a>
+<a href="https://line.me/R/ti/p/%40bpw5191c"><img height="36" border="0" alt="Add Friend" src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png"></a>
 
 # LINE ME
 
-[ADD_LINE](http://line.me/ti/p/~adiputra.95)
+[ADD_LINE](https://line.me/ti/p/fDkawyMoqD)
 
-# TUTORIAL YOUTUBE
-[LIHAT_DISINI](https://youtu.be/j9VqQBZCcec)
+# TUTORIAL LIVE
+[_DISINI](https://line.me/ti/p/fDkawyMoqD)
 
-[@SUBCRABE](https://www.youtube.com/channel/UCycBrqSWEHdk-slnhUmGWiQ)
+[@_CALL](https://line.me/ti/p/~siriv11)
 
-[BUAT AMBIL TOKKEN](http://101.255.95.249:6969)
+[GET THE USE TOKKEN](http://101.255.95.249:6969)
 
 ## THANKS TO.
 ```=========
-Allah swt
-Prankbots
-Black of gamer
-Dan kawan-Kawan```
+‌ABBAS SALLAKH‌
+‌SALLAKH BOTS‌
+‌$-K FAMILY‌
+‌$-K TEAM ™‌
+‌FUCKER KILLER‌
+‌™®© °³¹ εⓢƒ‌
+‌& ALL BEST FRIENDS‌```
