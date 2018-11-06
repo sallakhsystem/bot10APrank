@@ -3,8 +3,8 @@
 # 1 selfbot 10 asist
 V2.1 editor_::
 Prankbots
-# PRANKBOTS
-![SALLAKHBOT](Sallakh-bots.png)
+# SALLAKH BOT
+![@ _SALLAKHBOT](sallakhbot.png)
 V8.1.1 last update::
 10/10/2018
 # CONTACT OFFICIAL
